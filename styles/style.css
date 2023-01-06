@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* Button style */
@@ -46,9 +47,9 @@ header{
 /* about me section */
 
 .about{
-    margin: auto 250px;
+    margin: auto 200px;
     display: flex;
-    gap: 85px;
+    gap: 80px;
     
 }
 .about-image{
@@ -78,7 +79,7 @@ li{
     padding: 8px 0;
     list-style: url(../images/icons/check\ \(1\).png);
     color: #444343;
-    font-size: 20px;
+    font-size: 18px;
 }
 /* plan style */
 
